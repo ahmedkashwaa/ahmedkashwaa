@@ -33,8 +33,8 @@ You can click the Preview link to take a look at your changes.
         <br>&nbsp;Kotlin&nbsp;
     </td>
     <td align="center" width="96">
-        <img src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png" width="60"/>
-        <br>&nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://user-images.githubusercontent.com/76598011/187942128-395e0266-4147-4514-b39d-2166097953a4.png" width="60"/>
+        <br>&nbsp;&nbsp;&nbsp;SQLite&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td align="center" width="96">
         <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" width="35"/>
@@ -49,3 +49,4 @@ You can click the Preview link to take a look at your changes.
         <br>&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
 </table>
+
