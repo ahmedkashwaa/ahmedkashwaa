@@ -39,13 +39,7 @@ You can click the Preview link to take a look at your changes.
     <td align="center" width="96">
         <img src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png" width="60"/>
         <br>&nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp;&nbsp;
-    </td>
-    <td 
-    </td>
-    <td 
-    </td>
-    <td
-    </td>
+ 
     <td align="center" width="96">
         <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" width="35"/>
         <br>Firebase
