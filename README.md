@@ -40,17 +40,11 @@ You can click the Preview link to take a look at your changes.
         <img src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png" width="60"/>
         <br>&nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
-    <td align="center" width="96">
-        <img src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" width="70"/>
-        <br>&nbsp;&nbsp;Docker&nbsp;&nbsp;
+    <td 
     </td>
-    <td align="center" width="96">
-        <img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" width="60"/>
-        <br>Kubernetes
+    <td 
     </td>
-    <td align="center" width="96">
-        <img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width="60"/>
-        <br>&nbsp;&nbsp;&nbsp;&nbsp;AWS&nbsp;&nbsp;&nbsp;&nbsp;
+    <td
     </td>
     <td align="center" width="96">
         <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" width="35"/>
@@ -66,12 +60,8 @@ You can click the Preview link to take a look at your changes.
         <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="48" alt="Rxjava"/>
         <br>&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
-    <td align="center" width="96">
-        <img src="https://seeklogo.com/images/A/adobe-xd-logo-39468DE5D4-seeklogo.com.png" width="48" alt="Rxjava"/>
-        <br>Adobe&nbsp;Xd
+    <td 
     </td>
-    <td align="center" width="96">
-        <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" width="30" alt="Rxjava"/>
-        <br>Figma
+    <td 
     </td>
 </table>
