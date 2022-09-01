@@ -25,10 +25,6 @@ You can click the Preview link to take a look at your changes.
         <br>Android
     </td>
     <td align="center" width="96">
-        <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" width="48"/>
-        <br>&nbsp;&nbsp;Spring&nbsp;Boot&nbsp;&nbsp;
-    </td>
-    <td align="center" width="96">
         <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="43"/>
         <br>&nbsp;&nbsp;Java&nbsp;&nbsp;
     </td>
@@ -41,16 +37,8 @@ You can click the Preview link to take a look at your changes.
         <br>&nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td align="center" width="96">
-        <img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width="60"/>
-        <br>&nbsp;&nbsp;&nbsp;&nbsp;AWS&nbsp;&nbsp;&nbsp;&nbsp;
-    </td>
-    <td align="center" width="96">
         <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" width="35"/>
         <br>Firebase
-    </td>
-    <td align="center" width="96">
-        <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="48"/>
-        <br>Postman
     </td>
     <td align="center" width="96">
         <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" width="48"/>
@@ -59,13 +47,5 @@ You can click the Preview link to take a look at your changes.
     <td align="center" width="96">
         <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="48" alt="Rxjava"/>
         <br>&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;
-    </td>
-    <td align="center" width="96">
-        <img src="https://seeklogo.com/images/A/adobe-xd-logo-39468DE5D4-seeklogo.com.png" width="48" alt="Rxjava"/>
-        <br>Adobe&nbsp;Xd
-    </td>
-    <td align="center" width="96">
-        <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" width="30" alt="Rxjava"/>
-        <br>Figma
     </td>
 </table>
