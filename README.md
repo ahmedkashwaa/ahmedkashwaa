@@ -18,9 +18,63 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/ahmed-kachwaa-598369221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nada elhosary" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="40" height="40"/> </a> <a href="https://developer.android.com/studio?gclid=CjwKCAjwyryUBhBSEiwAGN5OCFTq-_MGxbLm3q7wcJIzkVACYjsOjhEZDqV_Bs8SR_7hGXxDr4Wy_hoCgQQQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" alt="android studio" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/512px-Kotlin_Icon.svg.png?20171012085709" alt="kotlin" width="40" height="40"/> </a> <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-built_black.svg" alt="firebase" width="80" height="40"/> </a> <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/644b7c04356f7e17ee98274b9a7d59af01e06bc988e4c311c8259df425d13c18/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39372f53716c6974652d7371756172652d69636f6e2e737667" alt="SQLite" width="40" height="40"/> 
- </a>
-<a href="https://www.w3schools.com/CPP/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/c/76/c.svg" alt="C++" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="C#" width="40" height="40"/> </a>
-</p>
+### Languages and Tools
+<table align="center">
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/A/android-new-2019-logo-3CD3BC571C-seeklogo.com.png" width="55"/>
+        <br>Android
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" width="48"/>
+        <br>&nbsp;&nbsp;Spring&nbsp;Boot&nbsp;&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="43"/>
+        <br>&nbsp;&nbsp;Java&nbsp;&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" width="48"/>
+        <br>&nbsp;Kotlin&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/M/mysql-logo-B047FB7790-seeklogo.com.png" width="60"/>
+        <br>&nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" width="70"/>
+        <br>&nbsp;&nbsp;Docker&nbsp;&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" width="60"/>
+        <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width="60"/>
+        <br>&nbsp;&nbsp;&nbsp;&nbsp;AWS&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" width="35"/>
+        <br>Firebase
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="48"/>
+        <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" width="48"/>
+        <br>&nbsp;Intellij&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="48" alt="Rxjava"/>
+        <br>&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/A/adobe-xd-logo-39468DE5D4-seeklogo.com.png" width="48" alt="Rxjava"/>
+        <br>Adobe&nbsp;Xd
+    </td>
+    <td align="center" width="96">
+        <img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" width="30" alt="Rxjava"/>
+        <br>Figma
+    </td>
+</table>
+
