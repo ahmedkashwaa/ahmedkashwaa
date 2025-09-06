@@ -31,7 +31,14 @@
 - **[ZIFOCUS - Cross-Platform Task Management App](https://zifoco.zimozi.xyz/)** (2024)  
   ✅ Built with **Jetpack Compose & Compose Multiplatform**  
   ✅ Real-time sync with **Firebase**  
-  ✅ MVVM architecture & scalable design  
+  ✅ MVVM architecture & scalable design
+
+- **[PopcornGo - Android Movie & TV Discovery App](https://github.com/ahmedkashwaa/PopcornGo)** (2024)  
+  🍿 A modern app built with **Jetpack Compose** and **TMDB API**  
+  🌍 Full **Arabic-English localization** with dynamic switching & RTL support  
+  🎬 Discover movies/TV, search titles, watch trailers via YouTube player  
+  🎨 Material 3, shimmer loading animations, Voyager navigation  
+  🏗️ Tech stack: **MVVM, Hilt, Retrofit, Coil, Coroutines/Flow** 
 
 - **[Coffee App](https://github.com/ahmedkashwaa/BanqueMisrGraduation)** (Banque Misr Internship, 2022)  
   ☕ Graduation project demonstrating Android development skills with Kotlin  
