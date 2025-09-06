@@ -1,26 +1,73 @@
-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Ahmed</h1>
-<h3 align="center">A passionate Android developer from Egypt</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Ahmed</h1>
+<h3 align="center">Android Developer (Kotlin/Java) & Cross-Platform (Flutter/KMM) Specialist</h3>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=BE8EC0&width=500&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
-- 
-- 👋 Hi, I’m Ahmed Kachwaa
-- 👀 I’m interested in Android application development
-- 🌱 I’m currently learning Android with Kotlin
-- 💞️ Always learning new things
-- 📫 How to reach me **ahmedkashwaa@hotmail.com**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=BE8EC0&width=600&lines=Welcome+to+my+GitHub+profile;Mobile+Application+Developer;Always+Learning+%26+Building)](https://git.io/typing-svg)
 
-<!---
-ahmedkashwaa/ahmedkashwaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h3 align="left">Connect with me:</h3>
+---
+
+### 👨‍💻 About Me
+- 📱 Android & Cross-Platform Developer (Flutter / KMM)  
+- 💡 3+ years of experience designing, developing, and deploying mobile apps  
+- 🌱 Skilled in **Kotlin, Jetpack Compose, Flutter, and Compose Multiplatform**  
+- 🚀 Strong foundation in **MVVM, Clean Architecture, Agile/Scrum, REST APIs, Firebase**  
+- 🔥 Passionate about creating scalable, user-centric solutions  
+- 📫 Reach me at: **ahmedkashwaa@hotmail.com**
+
+---
+
+### 🛠️ Languages and Tools
 <p align="left">
-<a href="https://www.linkedin.com/in/ahmed-kachwaa-598369221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nada elhosary" height="30" width="40" /></a>
+  <a href="https://kotlinlang.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="kotlin" width="40"/> </a>
+  <a href="https://developer.android.com" target="_blank"> <img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" alt="android" width="40"/> </a>
+  <a href="https://flutter.dev" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="flutter" width="40"/> </a>
+  <a href="https://firebase.google.com" target="_blank"> <img src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-built_black.svg" alt="firebase" width="80"/> </a>
+  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="sqlite" width="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40"/> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="java" width="40" height="40"/> </a> <a href="https://developer.android.com/studio?gclid=CjwKCAjwyryUBhBSEiwAGN5OCFTq-_MGxbLm3q7wcJIzkVACYjsOjhEZDqV_Bs8SR_7hGXxDr4Wy_hoCgQQQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" alt="android studio" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/512px-Kotlin_Icon.svg.png?20171012085709" alt="kotlin" width="40" height="40"/> </a> <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-built_black.svg" alt="firebase" width="80" height="40"/> </a> <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/644b7c04356f7e17ee98274b9a7d59af01e06bc988e4c311c8259df425d13c18/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39372f53716c6974652d7371756172652d69636f6e2e737667" alt="SQLite" width="40" height="40"/> 
- </a>
-<a href="https://www.w3schools.com/CPP/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/c/76/c.svg" alt="C++" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="C#" width="40" height="40"/> </a>
+---
+
+### 📂 Featured Projects
+- **[ZIFOCUS - Cross-Platform Task Management App](https://zifoco.zimozi.xyz/)** (2024)  
+  ✅ Built with **Jetpack Compose & Compose Multiplatform**  
+  ✅ Real-time sync with **Firebase**  
+  ✅ MVVM architecture & scalable design  
+
+- **[Coffee App](https://github.com/ahmedkashwaa/BanqueMisrGraduation)** (Banque Misr Internship, 2022)  
+  ☕ Graduation project demonstrating Android development skills with Kotlin  
+
+---
+
+### 💼 Experience
+- **Mobile App Developer (Android - Flutter)** | *Zimozi Solutions Pvt. Ltd.* (Sep 2022 – Present)  
+  - Built Android & cross-platform apps using **KMM & Flutter**  
+  - Implemented **MVVM & Clean Architecture** for scalability  
+  - Delivered innovative, user-friendly solutions across industries  
+
+- **Android App Developer** | *Information Technology Institute (ITI)* (Jun 2022 – Oct 2022)  
+  - Hands-on experience with **Java & Kotlin**  
+  - Applied **SOLID principles & design patterns**  
+  - Focused on testing/debugging with **JUnit, Mockito, Coroutines**  
+
+---
+
+### 🎓 Education & Certifications
+- 🎓 **B.Sc. Computer Engineering** – Mansoura University (2018–2023)  
+- 🎓 **Advanced Android Kotlin Development Nanodegree** – Udacity (2022)  
+- 🏆 Google Africa Scholarship – Android Kotlin  
+- 🏆 ITI – Advanced Android Java/Kotlin  
+- 🏆 Orange Digital Center – Android Java  
+
+---
+
+### 🌍 Languages
+- 🇪🇬 Arabic – Native  
+- 🇬🇧 English – Proficient  
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmed-kachwaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://github.com/ahmedkashwaa" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="30" width="30" /></a>
 </p>
