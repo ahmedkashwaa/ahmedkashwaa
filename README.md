@@ -28,19 +28,29 @@
 ---
 
 ### 📂 Featured Projects
-- **[ZIFOCUS - Cross-Platform Task Management App](https://zifoco.zimozi.xyz/)** (2024)  
+- **[ZIFOCUS - Cross-Platform Task Management App](https://zifoco.zimozi.xyz/)**  
   ✅ Built with **Jetpack Compose & Compose Multiplatform**  
   ✅ Real-time sync with **Firebase**  
   ✅ MVVM architecture & scalable design
 
-- **[PopcornGo - Android Movie & TV Discovery App](https://github.com/ahmedkashwaa/PopcornGo)** (2024)  
+  - **[Zkrilla Pay – Digital Payment Platform](#)**  
+  💳 A secure and intuitive **fintech app** built with **Flutter**, designed to handle both **traditional and crypto financial services**.  
+  🔐 Features include:  
+  - Multi-authentication (phone, email, PIN, KYC for fiat/crypto)  
+  - Secure payments (Fiat ↔ Crypto, Wallet transfers, ACH)  
+  - Loan requests (send, approve, reject with contacts integration)  
+  - Real-time notifications for all transactions  
+  - Profile management with avatar & basic details  
+  🌍 Designed for **scalability, security, and seamless integration** with banks & third-party services.  
+
+- **[PopcornGo - Android Movie & TV Discovery App](https://github.com/ahmedkashwaa/PopcornGo)**  
   🍿 A modern app built with **Jetpack Compose** and **TMDB API**  
   🌍 Full **Arabic-English localization** with dynamic switching & RTL support  
   🎬 Discover movies/TV, search titles, watch trailers via YouTube player  
   🎨 Material 3, shimmer loading animations, Voyager navigation  
   🏗️ Tech stack: **MVVM, Hilt, Retrofit, Coil, Coroutines/Flow** 
 
-- **[Coffee App](https://github.com/ahmedkashwaa/BanqueMisrGraduation)** (Banque Misr Internship, 2022)  
+- **[Coffee App](https://github.com/ahmedkashwaa/BanqueMisrGraduation)** (Banque Misr Internship)  
   ☕ Graduation project demonstrating Android development skills with Kotlin  
 
 ---
